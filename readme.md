@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Roberto Martinez**, Git Lover
+
+**Roberto Martinez**, Git & Larry Plotter Lover
+
